@@ -11,7 +11,7 @@ You will need to have R and R Studio installed on your machine.
 Installing
 Clone the repository to your local machine
 Copy code
-git clone https://github.com/username/Wrangling-and-Visualizing-Musical-Data.git
+git clone https://github.com/revolutionarybukhari/Wrangling-and-Visualizing-Musical-Data.git
 Open the project in R Studio
 
 Install the necessary packages by running the following command in the R console:
